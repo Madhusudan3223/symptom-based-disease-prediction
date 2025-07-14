@@ -1,0 +1,1 @@
+# symptom-based-disease-prediction
